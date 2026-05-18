@@ -1,6 +1,6 @@
 # Ejercicio 2: Terminal de Cobro Seguro
 from decimal import Decimal, InvalidOperation
-
+ 
 # Inicializar el total acumulado como Decimal
 total_acumulado = Decimal('0.0')
 
