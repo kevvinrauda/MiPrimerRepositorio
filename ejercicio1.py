@@ -1,4 +1,4 @@
-# Ejercicio 1: Clasificación de Paquetes
+# Ejercicio 1: Clasificación de Paquetes 
 
 # 1. Solicitar la etiqueta de rastreo
 codigo = input("Ingrese el código de rastreo (AÑO-CATEGORÍA-PAÍS): ")
